@@ -9,13 +9,13 @@
 ## Juego de la Vida
 
 <p align="left">
-  <img alt="Juego de la Vida" src="https://raw.githubusercontent.com/acastellanos95/SimulationLects/master/Game_of_life.gif">
+  <img alt="Juego de la Vida" src="https://raw.githubusercontent.com/acastellanos95/SimulationLects/master/Game_of_life.gif" height="160" width="320">
 </p>
 
 ## Schelling
 
 <p align="left">
-  <img alt="Schelling" src="https://raw.githubusercontent.com/acastellanos95/SimulationLects/master/Schelling.gif">
+  <img alt="Schelling" src="https://raw.githubusercontent.com/acastellanos95/SimulationLects/master/Schelling.gif" height="160" width="320">
 </p>
 
 ## Grafos
