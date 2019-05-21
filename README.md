@@ -3,7 +3,7 @@
 ## Cellular Automata
 
 <p align="center">
-  <img alt="Cellular Automata" src="https://raw.githubusercontent.com/acastellanos95/SimulationLects/master/CA.png">
+  <img alt="Cellular Automata" src="https://raw.githubusercontent.com/acastellanos95/SimulationLects/master/CA.png" height="200", width="200">
 </p>
 
 ## Juego de la Vida
@@ -18,7 +18,10 @@
   <img alt="Schelling" src="https://raw.githubusercontent.com/acastellanos95/SimulationLects/master/Schelling.gif">
 </p>
 
-4) Grafos
+## Grafos
+
+
+
 5) Random Walk
 6) Random Walk in Barabassi
 7) Schelling Redes
