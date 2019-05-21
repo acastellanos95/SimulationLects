@@ -3,7 +3,7 @@
 ## Cellular Automata
 
 <p align="left">
-  <img alt="Cellular Automata" src="https://raw.githubusercontent.com/acastellanos95/SimulationLects/master/CA.png" height="80" width="160">
+  <img alt="Cellular Automata" src="https://raw.githubusercontent.com/acastellanos95/SimulationLects/master/CA.png" height="160" width="320">
 </p>
 
 ## Juego de la Vida
