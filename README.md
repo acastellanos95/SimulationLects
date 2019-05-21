@@ -20,13 +20,9 @@
 
 ## Grafos
 
-<p align="left">
+<p>
   <img alt="Barabassi" src="https://raw.githubusercontent.com/acastellanos95/SimulationLects/master/Barabassi.png" height="160" width="320">
-</p>
-<p align="center">
   <img alt="ErdosRenyi" src="https://raw.githubusercontent.com/acastellanos95/SimulationLects/master/ErdosRenyi.png" height="160" width="320">
-</p>
-<p align="right">
   <img alt="Mundo Pequeño" src="https://raw.githubusercontent.com/acastellanos95/SimulationLects/master/MundoPequeno.png" height="160" width="320">
 </p>
 
