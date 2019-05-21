@@ -32,7 +32,12 @@
   <img alt="RandomWalkErdos" src="https://github.com/acastellanos95/SimulationLects/blob/master/RandomWalk.gif?raw=true" height="160" width="320">
 </p>
 
-6) Random Walk in Barabassi
+## Random Walk in Barabassi
+
+<p align="left">
+  <img alt="RandomWalkBarabassi" src="https://github.com/acastellanos95/SimulationLects/blob/master/RandomWalkBarabassi.gif?raw=true" height="160" width="320">
+</p>
+
 7) Schelling Redes
 8) Epidemia
 9) Redes Dinamicas
