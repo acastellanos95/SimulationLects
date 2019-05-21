@@ -1,6 +1,8 @@
 # Simulation Exercises 
 1) Cellular Automata
-!(CA.png)
+<p align="center">
+  <img alt="CA.png">
+</p>
 2) Juego de la Vida
 3) Schelling
 4) Grafos
