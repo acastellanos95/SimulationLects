@@ -1,7 +1,7 @@
 # Simulation Exercises 
 ## Cellular Automata
 <p align="center">
-  <src="https://raw.githubusercontent.com/acastellanos95/SimulationLects/master/CA.png">
+  <img alt="Cellular Automata" src="https://raw.githubusercontent.com/acastellanos95/SimulationLects/master/CA.png">
 </p>
 2) Juego de la Vida
 3) Schelling
