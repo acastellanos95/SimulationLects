@@ -1,7 +1,7 @@
 # Simulation Exercises 
 1) Cellular Automata
 <p align="center">
-  <src="https://github.com/acastellanos95/SimulationLects/CA.png">
+  <src="CA.png">
 </p>
 2) Juego de la Vida
 3) Schelling
