@@ -2,19 +2,19 @@
 
 ## Cellular Automata
 
-<p align="center">
-  <img alt="Cellular Automata" src="https://raw.githubusercontent.com/acastellanos95/SimulationLects/master/CA.png" height="200", width="200">
+<p align="left">
+  <img alt="Cellular Automata" src="https://raw.githubusercontent.com/acastellanos95/SimulationLects/master/CA.png" height="160" width="80">
 </p>
 
 ## Juego de la Vida
 
-<p align="center">
+<p align="left">
   <img alt="Juego de la Vida" src="https://raw.githubusercontent.com/acastellanos95/SimulationLects/master/Game_of_life.gif">
 </p>
 
 ## Schelling
 
-<p align="center">
+<p align="left">
   <img alt="Schelling" src="https://raw.githubusercontent.com/acastellanos95/SimulationLects/master/Schelling.gif">
 </p>
 
