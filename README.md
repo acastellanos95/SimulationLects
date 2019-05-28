@@ -51,4 +51,8 @@
 
 ## Redes Dinamicas
 
+<p align="left">
+  <img alt="Redes dinamicas" src="https://raw.githubusercontent.com/acastellanos95/SimulationLects/master/Lorenz1.png" height="200" width="600">
+</p>
+
 ## Coupled-Map-Lattices
