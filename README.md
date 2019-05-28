@@ -38,7 +38,17 @@
   <img alt="RandomWalkBarabassi" src="https://github.com/acastellanos95/SimulationLects/blob/master/RandomWalkBarabassi.gif?raw=true" height="160" width="320">
 </p>
 
-7) Schelling Redes
-8) Epidemia
-9) Redes Dinamicas
-10)Coupled-Map-Lattices
+## Schelling Redes
+
+<p>
+  <img alt="Erdos al inicio" src="https://raw.githubusercontent.com/acastellanos95/SimulationLects/master/Figure_1erdos.png" height="160" width="320">
+  <img alt="Erdos al final" src="https://raw.githubusercontent.com/acastellanos95/SimulationLects/master/Figure_2erdos.png" height="160" width="320">
+  <img alt="Barabassi al principio" src="https://raw.githubusercontent.com/acastellanos95/SimulationLects/master/Figure_1barabassi.png" height="160" width="320">
+    <img alt="Barabassi al final" src="https://raw.githubusercontent.com/acastellanos95/SimulationLects/master/Figure_2barabassi.png" height="160" width="320">
+</p>
+
+## Epidemia
+
+## Redes Dinamicas
+
+## Coupled-Map-Lattices
