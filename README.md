@@ -56,3 +56,8 @@
 </p>
 
 ## Coupled-Map-Lattices
+
+<p align="left">
+  <img alt="Coupled-Map-Lattices" src="https://github.com/acastellanos95/SimulationLects/blob/master/CoupledLattice.gif?raw=true" height="200" width="600">
+</p>
+
