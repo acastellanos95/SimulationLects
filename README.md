@@ -49,6 +49,10 @@
 
 ## Epidemia
 
+<p align="left">
+  <img alt="Redes dinamicas" src="https://raw.githubusercontent.com/acastellanos95/SimulationLects/master/Epidemia.gif" height="200" width="600">
+</p>
+
 ## Redes Dinamicas
 
 <p align="left">
